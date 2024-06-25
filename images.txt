@@ -1,3 +1,1 @@
-chaoyiyuan/tensorrt8
-nvidia/cuda:12.2.2-devel-ubuntu22.04
-nvidia/cuda:12.2.2-runtime-ubuntu22.04
+mister5ive/tensorrt7.2.1_cuda11.1_opencv3.4.6_onnx2trt
