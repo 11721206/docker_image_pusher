@@ -1,1 +1,1 @@
-elastic/filebeat:8.14.1
+heejukim2/tensorrt-llm-v01:latest
