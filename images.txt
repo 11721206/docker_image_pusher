@@ -1,2 +1,2 @@
-linuxserver/code-server:4.97.2
+linuxserver/code-server:4.96.2
 
